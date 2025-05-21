@@ -31,7 +31,7 @@ I’ve built face recognition systems, movement detectors, and games — always 
 
 ## 🌱 Currently Learning
 
-- Improving backend architecture and exploring advanced AI implementations  
+- Improving backend architecture and exploring frontend design technics
 - Practicing clean code patterns and scalable database design  
 - Building full-stack apps that solve real problems
 
