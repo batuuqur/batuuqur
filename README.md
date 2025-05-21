@@ -18,7 +18,7 @@ I’ve built face recognition systems, movement detectors, and games — always 
 
 ## 🚀 Highlight Projects
 
-- 🐉 **[Monster Rama](https://github.com/batuuqur/monster-rama)**  
+- 🐉 **[Monster Rama](https://github.com/batuuqur/TechElevator-finalProject)**  
   A web-based RPG battle system built with React and Spring Boot. Includes secure login, turn-based combat, character creation, and a leaderboard.
 
 - 🎭 **[Face Recognition & Cheat Detection](https://github.com/batuuqur/face-recognition_cheat-detection)**  
