@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Batuhan
 
-🎯 I'm a **Full Stack Developer** with a passion for real-time web applications, computer vision, and interactive systems.  
-I’ve built face recognition systems, movement detectors, and games — always focused on practical, user-centered solutions. At the moment working on a part time job and do some coding, practicing language when i have the time. Nothing else for me to mention here, that's it. Anyone who is reviewing this right now: 'What is your purpose here?'
+🎯 I'm a **Full Stack Developer** with a passion for real-time web applications. That's the field I am currently focused.
+I’ve built and worked on few different projects that includes games, face recognition system, movement detector — always focused on practical, user-centered solutions. At the moment working on a part time job and do some coding, practicing language when I have the time. Nothing else for me to mention here, that's it. Anyone who is reviewing this right now: 'What is your purpose here?'
 
 ---
 
