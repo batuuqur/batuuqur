@@ -25,7 +25,7 @@ I’ve built and worked on few different projects that includes games, face reco
   A real-time face recognition system using OpenCV and TensorFlow, achieving 90% accuracy. Displays live student data and detects anomalies.
 
 - 🧱 **[Cube Surfer (Unity Game)](https://github.com/batuuqur/cubesurfer)**  
-  3D physics-based endless runner game built in Unity and C#. Optimized for performance and player experience.
+  3D physics-based endless runner game built in Unity and C# with a simple menu.
 
 ---
 
